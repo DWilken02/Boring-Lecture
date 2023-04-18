@@ -3,8 +3,21 @@ h1 {
     text-align: center;
 }
 
-.important {
-    color: green
+.intro {
+   background-color: aquamarine;
+}
+
+h2.intro {
+  color: red;
+}
+
+p.intro {
+  text-align: center;
+}
+
+img.intro {
+  width: 50%;
+  margin: 20%;
 }
 
 .unimportant {
